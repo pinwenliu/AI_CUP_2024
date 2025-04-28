@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AICUP Baseline: BoT-SORT
 
 > [**BoT-SORT: Robust Associations Multi-Pedestrian Tracking**](https://arxiv.org/abs/2206.14651)
@@ -405,3 +406,6 @@ Thanks for their excellent work!
 
 
 
+=======
+"#Vue_Todolist" 
+>>>>>>> 9f6e3bdb7e288e2e74591ea92c17591e8b817f06
