@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AICUP Baseline: BoT-SORT
 
 > [**BoT-SORT: Robust Associations Multi-Pedestrian Tracking**](https://arxiv.org/abs/2206.14651)
